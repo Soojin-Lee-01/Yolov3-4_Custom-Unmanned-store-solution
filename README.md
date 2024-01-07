@@ -1,7 +1,7 @@
 # YOLOv3/4_Custom-Unmanned-store-solution
 YOLOv3/YOLOv4를 이용한 무인 매장 객체 인식 커스텀 학습 
 
-소프트웨어 캡스톤 프로젝트 중간 구현
+소프트웨어 캡스톤 프로젝트 중간 구현 
 ### 파일 구성
 YOLOv3 - data, code, result 
  / YOLOv4 - data, code
